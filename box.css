@@ -1,0 +1,36 @@
+body{
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+}
+.father{
+    width: 600px;
+    height: 400px;
+    margin-top: 5%;
+    background-color: rgb(36, 92, 110);
+}
+.div1{
+    border: solid rgb(36, 92, 110) 3px;
+    background-color: rgb(72, 124, 146);
+    padding: 10%;
+    text-align: center;
+    font-weight: bold;
+}
+.div2{
+    border: solid black 3px;
+    background: rgb(144, 193, 211);
+    padding: 10%;
+}
+.div3{
+    border: solid black 3px;
+    background: rgb(188, 228, 241);
+    padding: 10%;
+}
+.div4{
+    border: solid black 3px;
+    background: rgb(224, 238, 247);
+    padding: 10%;
+}
